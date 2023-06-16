@@ -9,4 +9,6 @@ export const colors = {
   text_paragraph: '#555555',
   text_nonActive: '#868686',
   text_disable: '#CACACA',
+  border_disable: '#D0D0D0',
+  blue: '#032172',
 };
