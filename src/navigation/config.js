@@ -9,11 +9,11 @@ export const config = [
   //   component: require('~/screens/OnBoarding/OnBoarding').default,
   //   options: {},
   // },
-  // {
-  //   name: 'Register',
-  //   component: require('~/screens/Register').default,
-  //   options: {},
-  // },
+  {
+    name: 'Register',
+    component: require('~/screens/Register').default,
+    options: {},
+  },
   {
     name: 'Login',
     component: require('~/screens/Login').default,

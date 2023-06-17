@@ -1,7 +1,7 @@
 export const colors = {
   primary: '#FFC83A',
   white: '#ffffff',
-  red: '#FF0000',
+  red: '#ed323f',
   black: '#000000',
   gray: '#F2F2F2',
   brand: '#5D4037',
@@ -11,4 +11,5 @@ export const colors = {
   text_disable: '#CACACA',
   border_disable: '#D0D0D0',
   blue: '#032172',
+  green: '#43936C',
 };
